@@ -11,7 +11,7 @@ MySQL for structured exploratory data analysis and gender gap insights
 Excel & Power BI to visualize rating distributions and salary compliance
 Automated bonus payout calculations based on performance metrics
 Results: Delivered clear, actionable recommendations for HR leadership.
-here is the repository Link: 
+### here is the repository Link: https://github.com/Estellepeters/Palmoria-Group-Analysis
 
 ## Kultra Mega Stores Inventory
 Objective: Analyzed 4 years of order data to identify sales drivers and shipping cost trends.
